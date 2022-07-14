@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(lightblue,blue,indigo);
+    }
+canvas{
+border:5px solid red;    
+}    
